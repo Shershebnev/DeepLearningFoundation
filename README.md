@@ -4,4 +4,6 @@ project1 - simple neural network implementation using Numpy. Input file contains
 
 project2 - Deep Convolutional Network applied to CIFAR-10.
 
-extra/project2 - Convolutional Network with Inception Module as described in GoogLeNeT paper http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Szegedy_Going_Deeper_With_2015_CVPR_paper.pdf
+project2/extra - Contains extensions of the project 2 - Convolutional Network with Inception Module as described in GoogLeNeT paper http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Szegedy_Going_Deeper_With_2015_CVPR_paper.pdf and Residual Network (specifically, ResNet-50).
+
+project_Anna_KaRNNa - intermediate project, that involved training characted-based LSTM RNN on Anna Karenina with subsequent text generation
