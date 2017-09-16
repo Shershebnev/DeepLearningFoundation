@@ -9,3 +9,5 @@ project2/extra - Contains extensions of the project 2 - Convolutional Network wi
 project_Anna_KaRNNa - intermediate project, that involved training characted-based LSTM RNN on Anna Karenina with subsequent text generation
 
 project3 - TV script generation using RNN using part of the Simpsons dataset of scripts from 27 seasons
+
+project4 - seq2seq neural network for English to French translation
