@@ -11,3 +11,5 @@ project_Anna_KaRNNa - intermediate project, that involved training characted-bas
 project3 - TV script generation using RNN using part of the Simpsons dataset of scripts from 27 seasons
 
 project4 - seq2seq neural network for English to French translation
+
+project5 - face generation using DCGAN
